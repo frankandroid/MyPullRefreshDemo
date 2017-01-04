@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Welfare Lottery</string>
+
+    <string name="smart_ui_pull_down_normal">下拉刷新</string>
+    <string name="smart_ui_pull_down_release_able">释放刷新</string>
+    <string name="smart_ui_pull_down_release">正在刷新</string>
+    <string name="smart_ui_pull_up_normal">上拉加载更多</string>
+    <string name="smart_ui_pull_up_release_able">释放进行加载</string>
+    <string name="smart_ui_pull_up_release">正在加载中...</string>
+    <string name="eleven_choice_five">十一选五</string>
+    <string name="normal_choice_mode">"普通选号"</string>
+    <string name="trend_choice_mode">"走势选号"</string>
+    <string name="missing_choice_mode">"遗漏投注"</string>
+    <string name="dan">"胆"</string>
+    <string name="selected_dan_explain">"以下为选择的胆码"</string>
+    <string name="confirm">"确定"</string>
+    <string name="cancel">"取消"</string>
+    <string name="progress_waiting_load">"正在加载，请稍后..."</string>
+    <string name="high_level_chase_num">"高级追号"</string>
+    <string name="to_end">" 后截止"</string>
+    <string name="add_basket">" 加入号码篮"</string>
+    <string name="twelve_period">12期</string>
+    <string name="thirty_six_period">36期</string>
+    <string name="seventy_two_period">72期</string>
+    <string name="one_hundred_fifty_two_period">152期</string>
+    <string name="ten_double">投10倍</string>
+    <string name="fifty_double">投50倍</string>
+    <string name="one_hundred_double">投100倍</string>
+    <string name="two_hundred_and_fifty_double">投250倍</string>
+
+
+
+
+    <string name="betting_page_number_selection">投注页选号</string>
+    <string name="machine_choosed_one">机选一注</string>
+    <string name="clear_list">清空列表</string>
+    <string name="chase_num">追号</string>
+    <string name="multiple">倍数</string>
+    <string name="shake">摇一摇</string>
+    <string name="bile">胆</string>
+    <string name="machine_choose">机选</string>
+    <string name="five_bet">5注</string>
+    <string name="one_bet">1注</string>
+    <string name="ten_bet">10注</string>
+    <string name="open_shake">开启摇一摇</string>
+    <string name="close_shake">关闭摇一摇</string>
+
+    <string name="choose_self">自己选</string>
+    <string name="top_up">帮我补足</string>
+
+    <string name="need_one_blue">还差1个蓝球才能组成一注彩票</string>
+    <string name="bet_now">立即投注</string>
+    <string name="chase_five">追5期</string>
+    <string name="chase_ten">追10期</string>
+    <string name="chase_one_month">追一个月\n12期</string>
+    <string name="chase_three_month">追三个月\n36期</string>
+    <string name="chase_six_month">追六个月\n72期</string>
+    <string name="chase_one_year">追一年\n154期</string>
+
+    <string name="bet_ten">投10倍</string>
+    <string name="bet_fifty">投50倍</string>
+    <string name="bet_one_hundred">投100倍</string>
+
+
+</resources>
